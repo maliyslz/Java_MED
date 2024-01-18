@@ -13,6 +13,8 @@ The program prompts the user to input a word and then finds alternative correct 
 1. Run the program.
 2. Enter a word when prompted.
 3. The program will display alternative correct words and their proximity to the input word.
+   
+![image](https://github.com/maliyslz/Java_MED/assets/74790598/07da8289-e345-4c06-8f28-6b1c0eb99354)
 
 # Part 2: Minimum Edit Distance (MED) between Two Words
 The program prompts the user to input two words and calculates the Minimum Edit Distance (MED) between them. It uses dynamic programming to construct a table and then backtracks to find the sequence of operations (insertion, deletion, substitution) to transform one word into the other.
@@ -22,6 +24,9 @@ The program prompts the user to input two words and calculates the Minimum Edit 
 2. Enter the first word when prompted.
 3. Enter the second word when prompted.
 4. The program will display the Minimum Edit Distance and the sequence of operations.
+
+![image](https://github.com/maliyslz/Java_MED/assets/74790598/908e8744-b314-4a55-a6ac-88ce67da7215)
+
 ## Files:
 - Main.java: The main Java program file.
 - vocabulary_tr.txt: The vocabulary file used to find alternative correct words.
